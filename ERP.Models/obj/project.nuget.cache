@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzYbTEKqXWy9JBlYUJbGocBsiIVmXP0qDIgpoQhH1+v1ew7ykVtHQjSg5i3frMIv5IB0RL5OjFCmLzmGoDxSeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmed.ayaad\\ma-projects\\.Net\\ERP\\ERP.Models\\ERP.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed.ayaad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
